@@ -1,0 +1,6 @@
+{
+  "name": "Digital Bullet Journal & Planner",
+  "description": "An aesthetic interactive digital bullet journal, tablet planner, habit tracker, and sticker scrapbook with adaptive glassmorphism weather interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
